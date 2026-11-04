@@ -8,3 +8,4 @@ export const settingsService = {
     return await api.put('/settings', settingsData);
   },
 };
+

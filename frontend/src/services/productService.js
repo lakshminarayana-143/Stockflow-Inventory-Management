@@ -20,3 +20,4 @@ export const productService = {
     return await api.delete(`/products/${id}`);
   },
 };
+

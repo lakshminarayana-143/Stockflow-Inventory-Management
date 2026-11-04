@@ -5,3 +5,4 @@ export const dashboardService = {
     return await api.get('/dashboard/overview');
   },
 };
+

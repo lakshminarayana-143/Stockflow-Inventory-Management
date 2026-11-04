@@ -23,3 +23,4 @@ export const Table = ({ headers = [], children, emptyMessage = 'No data availabl
     </div>
   );
 };
+

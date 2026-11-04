@@ -248,3 +248,4 @@ export const DashboardPage = () => {
     </div>
   );
 };
+

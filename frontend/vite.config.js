@@ -7,10 +7,11 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'http://localhost:5000',
+        target: 'https://stockflow-inventory-management-1zx4.onrender.com/',
         changeOrigin: true,
         secure: false,
       },
     },
   },
 });
+
