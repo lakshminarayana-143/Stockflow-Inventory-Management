@@ -100,3 +100,4 @@ npm run dev
    - The item appears in the **Low Stock Items** alert table.
 6. Click **Adjust** on the item and add `+10 Units`.
    - Stock increases to `13 Units`, and the low stock alert clears automatically!
+
